@@ -1,0 +1,1 @@
+{"id":"a5eafeec-5aeb-46bf-89cd-f28bf052b610","name":"Eq_w_tr_RustySword1","blocks":[{"type":"event","id":"70e849ff-4878-4a5b-af92-c709e5bd41f3","eventType":"onContentAppear","children":[{"type":"condition","id":"1c097356-8887-4b47-bf2f-ca712a94c50f","expression":"{InHands}=='Ржавый меч'","then_blocks":[],"else_blocks":[]}]}]}
