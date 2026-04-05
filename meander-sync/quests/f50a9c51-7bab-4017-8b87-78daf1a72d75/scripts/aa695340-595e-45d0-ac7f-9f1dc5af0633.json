@@ -1,0 +1,1 @@
+{"id":"aa695340-595e-45d0-ac7f-9f1dc5af0633","name":"Удалить ключ от кладовой","blocks":[{"type":"event","id":"25159ad4-b363-4a33-8af4-f03dce84f7fc","eventType":"onNodeEnter","children":[{"type":"assign_variable","id":"ca649463-b873-4a2b-9035-fc5d44fe44b5","variable":"Ключ от кладовой","value":"2"}]}]}
