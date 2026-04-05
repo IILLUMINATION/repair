@@ -1,0 +1,1 @@
+{"id":"ae8ad423-682a-4c06-86cb-65a34d794748","name":"звук. призрак 3","blocks":[{"type":"event","id":"eae3c8e9-95c8-49ff-a0e1-f9185ec2b8f8","eventType":"onNodeEnter","children":[{"type":"condition","id":"63f7a88b-0e3b-4e43-be55-a21df50cf7c3","expression":"{рпг элементы} == 1 && {Призрак3} == 2","then_blocks":[],"else_blocks":[]}]}]}
