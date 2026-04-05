@@ -1,0 +1,1 @@
+{"id":"1cbdd507-cd26-4aa7-98d0-9ac33822b7f0","name":"армия - риск","blocks":[{"type":"event","id":"a4d6ada9-409a-4665-a44b-4de95fc56905","eventType":"onPress","children":[{"type":"go_to_node","id":"e4f83645-7bf9-444e-8a22-b0c5066070ca","node_id":"ad3accc3-2ced-4449-9e14-db8009b95547","node_name":"Новая нода 23"}],"collapsed":false}]}
