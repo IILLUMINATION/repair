@@ -1,0 +1,1 @@
+{"id":"0e45ae3a-7907-4158-8552-1a9787baf71c","name":"К_Тр_Выстрел +","blocks":[{"type":"event","id":"3e5dbad4-63a4-49dc-ab19-a6cfd7afc912","eventType":"onContentAppear","children":[{"type":"condition","id":"e4943e2b-d1a6-4aee-8c98-616530665fe7","expression":"{OD}>=2 && {InAL}!='Ничего' && {InAS}!='Ничего'","then_blocks":[],"else_blocks":[]}]}]}
