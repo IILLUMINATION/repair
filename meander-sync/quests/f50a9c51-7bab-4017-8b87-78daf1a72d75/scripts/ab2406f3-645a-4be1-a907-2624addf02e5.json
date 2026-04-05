@@ -1,0 +1,1 @@
+{"id":"ab2406f3-645a-4be1-a907-2624addf02e5","name":"Нет ключа от кладовой","blocks":[{"type":"event","id":"d0b68990-875d-4807-be89-afb20d416e0f","eventType":"onNodeEnter","children":[{"type":"assign_variable","id":"93225c85-398e-4cd9-a29b-1e1a1e37784e","variable":"Ключ от кладовой","value":"0"}]}]}
