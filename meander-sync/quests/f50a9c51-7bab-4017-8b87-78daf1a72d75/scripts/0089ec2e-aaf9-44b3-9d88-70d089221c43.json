@@ -1,0 +1,1 @@
+{"id":"0089ec2e-aaf9-44b3-9d88-70d089221c43","name":"+Дэн","blocks":[{"type":"event","id":"40a1895a-5327-4bf8-8a16-d0b65c6ea1d2","eventType":"onContentAppear","children":[{"type":"assign_variable","id":"5a0406cc-337b-4faa-b2ca-5228b789f725","variable":"Ветка Дэна","value":"{Ветка Дэна}+1"}]}]}
