@@ -1,0 +1,1 @@
+{"id":"52ba8c32-a20b-4e46-af19-b47939e7bf34","name":"тр_текст оружие ничего","blocks":[{"type":"event","id":"f741fea9-812a-4ad5-9df1-be402728ca98","eventType":"onContentAppear","children":[{"type":"condition","id":"6bfc39d6-48f7-4e50-ab68-e0db71c022d8","expression":"{InHands}=='Ничего'","then_blocks":[],"else_blocks":[]}]}]}
