@@ -1,0 +1,1 @@
+{"id":"c170db1f-a98d-45be-a73d-ee48784cc817","name":"K_Заменить щит","blocks":[{"type":"event","id":"227bc150-0260-4ff5-ba03-f3017a800149","eventType":"onPress","children":[{"type":"go_to_node","id":"1195e397-c631-4bf1-a466-2579845614a9","node_id":"900fa284-7ae6-4e1e-a6ff-6c414d4c1796","node_name":"ЩИТ"}]}]}
