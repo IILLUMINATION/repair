@@ -1,0 +1,1 @@
+{"id":"ab192605-2c28-4f8d-8397-c5a34ab8751f","name":"Переход","blocks":[{"type":"event","id":"def7c01f-020a-40bf-bd9a-e636bb079909","eventType":"onPress","children":[{"type":"go_to_node","id":"6f7514b1-568d-40af-811d-824463adfa72","node_id":"c8000978-686f-46a0-b771-af9c09fb9d4d","node_name":"Новая нода 33"}],"collapsed":false}]}
