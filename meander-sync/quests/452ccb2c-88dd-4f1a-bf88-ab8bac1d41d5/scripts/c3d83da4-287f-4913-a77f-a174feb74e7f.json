@@ -1,0 +1,1 @@
+{"id":"c3d83da4-287f-4913-a77f-a174feb74e7f","name":"м","blocks":[{"type":"event","id":"a6074296-6a2f-454c-b33a-6b300d9e1f79","eventType":"onPress","children":[{"type":"assign_variable","id":"cd6e3c3c-a7bb-4f02-b5aa-ffdd0a3a104f","variable":"Рандом 10","value":"random(1, 10)"}],"collapsed":false}]}
