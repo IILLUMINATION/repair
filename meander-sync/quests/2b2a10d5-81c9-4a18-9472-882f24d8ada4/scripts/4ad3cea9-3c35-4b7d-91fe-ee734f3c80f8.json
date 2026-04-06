@@ -1,0 +1,1 @@
+{"id":"4ad3cea9-3c35-4b7d-91fe-ee734f3c80f8","name":"проигрыш","blocks":[{"type":"event","id":"52131aa8-776e-4735-aabd-22b7bd5c517c","eventType":"onNodeEnter","children":[{"type":"assign_variable","id":"f2cd011b-dbb4-4d4b-9cd7-5ceaa79c05dd","variable":"проигрыш","value":"1"}],"collapsed":false}]}
