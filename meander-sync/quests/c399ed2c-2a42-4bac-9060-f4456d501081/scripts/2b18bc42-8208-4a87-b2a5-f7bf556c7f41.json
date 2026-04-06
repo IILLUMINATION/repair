@@ -1,0 +1,1 @@
+{"id":"2b18bc42-8208-4a87-b2a5-f7bf556c7f41","name":"начало","blocks":[{"type":"event","id":"fe81a1c0-a019-4b4d-93ce-d0e52c78a290","eventType":"onNodeEnter","children":[{"type":"assign_variable","id":"a0b18432-f6ea-4164-903e-082c91b5c50c","variable":"а","value":"5"}]}]}
