@@ -1,0 +1,1 @@
+{"id":"6956bc08-f1af-42b3-8224-49fab5a19627","name":"Двор -","blocks":[{"type":"event","id":"cffca2bf-c03b-4b18-9d96-d8000cc7d2c4","eventType":"onPress","children":[{"type":"go_to_node","id":"ab1b11a6-1d13-4710-8a1b-24ad58ed5231","node_id":"08397c98-ce0e-4bf9-9068-82727a398ac7","node_name":"Новая нода 13"}],"collapsed":false}]}
