@@ -1,0 +1,1 @@
+{"id":"baccefe3-5d5b-4ace-8ebe-ae2b344d26c7","name":"z4","blocks":[{"type":"event","id":"2916ef1e-3ebd-41fc-b142-60b570c86c81","eventType":"onNodeEnter","children":[{"type":"assign_variable","id":"42c2ac84-d3ab-4b05-a52e-4dd54d2fd85e","variable":"z4","value":"1"}]}]}
