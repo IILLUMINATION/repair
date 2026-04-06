@@ -1,0 +1,1 @@
+{"id":"fbe5758e-88a0-4624-a72b-fb44d5b3a67c","name":"Рандом 1,5","blocks":[{"type":"event","id":"2fc260d2-0b65-4d6c-a39c-3bb16cf613ed","eventType":"onPress","children":[{"type":"assign_variable","id":"ec465328-7555-4c2f-8cad-b4b5d15f285c","variable":"Рандом 1,5","value":"random(1, 5)"}],"collapsed":false}]}
