@@ -1,0 +1,1 @@
+{"id":"d31e4647-bc53-4ae4-ba4f-69da873ec406","name":"Инв оруж-д экип назад","blocks":[{"type":"event","id":"c1f78a04-0505-469f-b5bd-18401cb021a1","eventType":"onNodeEnter","children":[{"type":"go_to_node","id":"150c63ec-d596-4a9b-8b03-fa20f222800b","node_id":"2ecac94b-78ad-4d7e-aa1f-b946b151447f","node_name":"ОРУЖИЕ ДАЛЬНЕЕ"}]}]}
