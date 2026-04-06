@@ -1,0 +1,1 @@
+{"id":"252e02d0-c38a-449b-bec4-0f6897f25d28","name":"проиграл?","blocks":[{"type":"event","id":"44289a6e-26bd-4e03-93fd-498b8672ddca","eventType":"onContentAppear","children":[{"type":"condition","id":"34359431-fb28-4ff6-a2a5-59f2de799255","expression":"{проигрыш}==1","then_blocks":[],"else_blocks":[],"collapsed":false}],"collapsed":false}]}
