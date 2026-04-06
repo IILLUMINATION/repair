@@ -1,0 +1,1 @@
+{"id":"e75808b9-b03f-4943-891d-c95cd4c1a7be","name":"звук убрать","blocks":[{"type":"event","id":"9096c707-fd73-45e5-be84-9db3b141bb91","eventType":"onNodeEnter","children":[{"type":"set_volume","id":"75064eec-ba73-4b3b-bb76-d912fc567687","target":"tagAudio","volume":0.0}],"collapsed":false}]}
