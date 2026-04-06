@@ -1,0 +1,1 @@
+{"id":"4145f17c-0ba0-425c-b5b5-6d0f7d84825d","name":"Размытие 0","blocks":[{"type":"event","id":"0835eeb6-8937-4137-be46-24e58718f818","eventType":"onNodeEnter","children":[{"type":"set_blur","id":"56f55b26-46dc-4774-a88c-bc49b3a5c1d8","target":"node","blur":0.0}]}]}
