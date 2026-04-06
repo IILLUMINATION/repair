@@ -1,0 +1,1 @@
+{"id":"0d4f7455-76aa-4c5f-bd7b-f85fe3715cf4","name":"если равно 1","blocks":[{"type":"event","id":"f1d18e60-18de-4173-9d69-9d0a2440f8b4","eventType":"onContentAppear","children":[{"type":"condition","id":"006abb9c-b746-4ee9-b397-3345d0ef41db","expression":"{кнопка}==1","then_blocks":[],"else_blocks":[],"collapsed":false}],"collapsed":false}]}
