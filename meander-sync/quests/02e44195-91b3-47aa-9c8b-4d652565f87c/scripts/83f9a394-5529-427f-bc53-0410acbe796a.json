@@ -1,0 +1,1 @@
+{"id":"83f9a394-5529-427f-bc53-0410acbe796a","name":"тр_текст снаряды экипировано","blocks":[{"type":"event","id":"0db1d467-fcf7-413e-9b09-64dd3d6d8b10","eventType":"onContentAppear","children":[{"type":"condition","id":"1620b110-4d0f-4452-95b7-a0a9d252c995","expression":"{InAS}!='Ничего'","then_blocks":[],"else_blocks":[]}]}]}
