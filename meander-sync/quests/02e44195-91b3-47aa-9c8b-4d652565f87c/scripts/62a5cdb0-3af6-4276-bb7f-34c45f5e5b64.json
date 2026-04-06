@@ -1,0 +1,1 @@
+{"id":"62a5cdb0-3af6-4276-bb7f-34c45f5e5b64","name":"Проверка веса округление до сотых","blocks":[{"type":"event","id":"894aeb8f-e134-49a5-b362-980df3f339a5","eventType":"onNodeEnter","children":[{"type":"assign_variable","id":"257fd004-cf86-4fd8-b955-c1cd1416172a","variable":"05PlayerMass","value":"(round({05PlayerMass}*100))/100"}]}]}
