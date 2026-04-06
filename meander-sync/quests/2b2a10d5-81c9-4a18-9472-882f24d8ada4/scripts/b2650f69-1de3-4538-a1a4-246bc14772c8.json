@@ -1,0 +1,1 @@
+{"id":"b2650f69-1de3-4538-a1a4-246bc14772c8","name":"если не брал ключ","blocks":[{"type":"event","id":"2564c73d-32a8-43af-b28b-a3edf3771a39","eventType":"onContentAppear","children":[{"type":"condition","id":"43adcf26-ded5-4e55-8c12-178ce8dc1e03","expression":"{кнопка}==0","then_blocks":[],"else_blocks":[],"collapsed":false}],"collapsed":false}]}
