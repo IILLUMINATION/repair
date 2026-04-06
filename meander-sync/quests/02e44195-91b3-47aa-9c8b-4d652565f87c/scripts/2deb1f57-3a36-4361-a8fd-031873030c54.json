@@ -1,0 +1,1 @@
+{"id":"2deb1f57-3a36-4361-a8fd-031873030c54","name":"тр_текст оружие дальнее экипировано","blocks":[{"type":"event","id":"8e2e75aa-15f8-4af4-93a2-c6b4438cf62e","eventType":"onContentAppear","children":[{"type":"condition","id":"8df6ba33-eb98-4e8f-854d-aab38b8cab18","expression":"{InAL}!='Ничего'","then_blocks":[],"else_blocks":[]}]}]}
