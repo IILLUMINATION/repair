@@ -1,0 +1,1 @@
+{"id":"4729dc64-435a-4612-bee9-9e5214faaa65","name":"Если нет ключа от кладовой","blocks":[{"type":"event","id":"1c3dcfac-9c78-4921-b14e-8d4f267e22da","eventType":"onContentAppear","children":[{"type":"condition","id":"c099ddfc-9511-40df-ac6d-cc857d522ffb","expression":"{Ключ от кладовой}==0","then_blocks":[],"else_blocks":[]}]}]}
