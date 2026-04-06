@@ -1,0 +1,1 @@
+{"id":"230baef0-499d-4144-9270-f08a21037f5b","name":"Eq_Head_tr_Heat1","blocks":[{"type":"event","id":"1256dd83-e8d5-4378-a66a-0a099312f0d9","eventType":"onContentAppear","children":[{"type":"condition","id":"95df4691-d443-4e87-9074-2a45986d2323","expression":"{InHead}=='Соломенная шляпа'","then_blocks":[],"else_blocks":[]}]}]}
