@@ -1,0 +1,1 @@
+{"id":"3716b9b2-80e6-41f9-855c-81200b56eb89","name":"телефон","blocks":[{"type":"event","id":"245595d8-4b18-4df7-9d7b-2cc90c8d0722","eventType":"onNodeEnter","children":[{"type":"assign_variable","id":"d9a65f2e-2241-4194-a3f4-2e1856918543","variable":"телефон","value":"1"}]}]}
