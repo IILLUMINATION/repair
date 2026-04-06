@@ -1,0 +1,1 @@
+{"id":"073d167e-1c86-4be4-9808-4bd27df9fa2e","name":"Eq_hands_tr_0","blocks":[{"type":"event","id":"07980d00-7608-4056-a678-cff8533f2d87","eventType":"onContentAppear","children":[{"type":"condition","id":"9c072f2d-9851-420a-9372-bc615db9e5cb","expression":"{OnHands}=='Ничего'","then_blocks":[],"else_blocks":[]}]}]}
