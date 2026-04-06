@@ -1,0 +1,1 @@
+{"id":"741aa534-a62a-4ea3-9bed-7efec2f3a7ba","name":"K_Помощь","blocks":[{"type":"event","id":"1e9d2e19-d263-4d70-854e-1dad7af51c90","eventType":"onPress","children":[{"type":"go_to_node","id":"2e152185-40a6-4813-a962-f9f123039a93","node_id":"dc5185a5-4d17-41f8-8b3b-2562e18fc044","node_name":"ПОМОЩЬ"}]}]}
