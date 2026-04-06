@@ -1,0 +1,1 @@
+{"id":"db555652-4306-42af-a0a3-0ed6f9924402","name":"убил монстра","blocks":[{"type":"event","id":"2a26c119-1234-4fab-b735-b5d8f1f71af5","eventType":"onNodeEnter","children":[{"type":"assign_variable","id":"ecafb8c2-42e6-4a89-b43b-1f7e3e952feb","variable":"убил монстра","value":"1"}]}]}
