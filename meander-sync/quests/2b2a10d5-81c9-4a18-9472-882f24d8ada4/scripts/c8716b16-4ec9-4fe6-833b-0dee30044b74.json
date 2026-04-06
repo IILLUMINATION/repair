@@ -1,0 +1,1 @@
+{"id":"c8716b16-4ec9-4fe6-833b-0dee30044b74","name":"перейти в пещеру","blocks":[{"type":"event","id":"f38870fd-1948-431b-bb8f-16cf55514d51","eventType":"onContentAppear","children":[{"type":"go_to_node","id":"39bb10e1-f660-4660-8313-74b213a290c3","node_id":"7d095600-0ff3-4149-8bfe-cc52709bf156","node_name":"пещера"}],"collapsed":false}]}
