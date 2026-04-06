@@ -1,0 +1,1 @@
+{"id":"d70d7728-5795-42bb-8e54-d990b9925d38","name":"скример","blocks":[{"type":"event","id":"0e59b2b5-a268-4e30-b183-fa2379abbabc","eventType":"onContentAppear","children":[{"type":"go_to_node","id":"45c4730c-7cb0-471e-95f9-66316aab8dc1","node_id":"3aa9b94e-62f5-4866-9551-e62eff92cc92","node_name":"скример"}],"collapsed":false}]}
