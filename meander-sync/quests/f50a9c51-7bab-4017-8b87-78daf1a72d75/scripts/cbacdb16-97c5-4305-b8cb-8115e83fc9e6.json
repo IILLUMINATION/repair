@@ -1,0 +1,1 @@
+{"id":"cbacdb16-97c5-4305-b8cb-8115e83fc9e6","name":"Дальше","blocks":[{"type":"event","id":"3c9f4ca2-00a3-4002-979f-efa32d837972","eventType":"onContentAppear","children":[{"type":"go_to_node","id":"c55b2db5-05ba-45e8-9e7e-37b2737d544d","node_id":"3c70aee4-114e-4285-9452-493f6eefa3b1","node_name":"Пробуждение"}]}]}
