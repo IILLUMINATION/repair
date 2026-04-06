@@ -1,0 +1,1 @@
+{"id":"78953a82-f460-4c42-9eae-457f61c156e7","name":"Ждать возвращения капелана","blocks":[{"type":"event","id":"78686252-ca0f-40c2-93db-0600e6201211","eventType":"onNodeEnter","children":[{"type":"go_to_node","id":"65bdadf8-05be-4fba-80b1-65532855a3ab","node_id":null,"node_name":"Выберите ноду"}]}]}
