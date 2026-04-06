@@ -1,0 +1,1 @@
+{"id":"24050ccf-6d6e-427e-a935-f338d1e2c84f","name":"test","blocks":[{"type":"event","id":"4c17b0d9-4bdd-40ce-a52f-97c43c668eda","eventType":"onNodeEnter","children":[{"type":"assign_variable","id":"eb465b29-f0f2-405e-91a2-4552e2feca2d","variable":"test","value":"{test}+1"}],"collapsed":false}]}
