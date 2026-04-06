@@ -1,0 +1,1 @@
+{"id":"097ec2f6-fb31-4d6f-8b93-cad8657504b2","name":"Eq_legs_tr_Legs1","blocks":[{"type":"event","id":"aa71576d-98d6-4a26-8322-9825d5e7e2e0","eventType":"onContentAppear","children":[{"type":"condition","id":"33edd22f-913d-4123-a015-b06b7795d53e","expression":"{InLegs}=='Рваные штаны'","then_blocks":[],"else_blocks":[]}]}]}
