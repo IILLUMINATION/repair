@@ -1,0 +1,1 @@
+{"id":"7237f74c-9fc8-4770-a6ac-2a080ce670e9","name":"К_Тр_Силовая атака +","blocks":[{"type":"event","id":"ae235882-6a43-4e86-950f-e777126291a1","eventType":"onContentAppear","children":[{"type":"condition","id":"52bb5843-e9de-40c4-81ea-fecae7d0eaf4","expression":"{OD}>=10","then_blocks":[],"else_blocks":[]}]}]}
