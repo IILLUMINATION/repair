@@ -1,0 +1,1 @@
+{"id":"fef285e0-d9d4-42bd-b451-9d5279e0cb2e","name":"фон","blocks":[{"type":"event","id":"0a898ae4-d302-4eac-b555-34ae5138bf58","eventType":"onNodeEnter","children":[{"type":"set_blur","id":"855e512d-fac0-4024-bdbf-3165c1354c7f","target":"node","blur":0.0}]}]}
