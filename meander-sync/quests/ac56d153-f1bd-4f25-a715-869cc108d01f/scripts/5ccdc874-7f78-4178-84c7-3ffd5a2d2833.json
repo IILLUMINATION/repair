@@ -1,0 +1,1 @@
+{"id":"5ccdc874-7f78-4178-84c7-3ffd5a2d2833","name":"Новый скрипт","blocks":[{"type":"event","id":"29d0f418-3337-4db3-8ac5-259839a80f15","eventType":"onPress","children":[{"type":"set_volume","id":"67ccb342-7084-4adb-b655-ae824474119b","target":"tagAudio","volume":1.0}]}]}
