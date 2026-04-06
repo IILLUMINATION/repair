@@ -1,0 +1,1 @@
+{"id":"4d8a8cab-a2b1-43f2-9d94-70f0bea98745","name":"Информация","blocks":[{"type":"event","id":"4c645087-a9c2-4404-a4cb-b855b662fc73","eventType":"onPress","children":[{"type":"go_to_node","id":"ee1c0abf-c47f-4482-bcff-a7f39cb502d0","node_id":"d363cedf-36ea-43e5-a74a-0d9a63db162c","node_name":"Информация"}]}]}
