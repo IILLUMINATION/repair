@@ -1,0 +1,1 @@
+{"id":"41144810-fdc1-42f2-9b96-d01d8b5a5e1b","name":"тр_текст голова ничего","blocks":[{"type":"event","id":"ddfb6831-5043-4697-9aec-e92499c17d90","eventType":"onContentAppear","children":[{"type":"condition","id":"1b02ea10-bae9-467c-8a99-c894ecafe1d2","expression":"{InHead}=='Ничего'","then_blocks":[],"else_blocks":[]}]}]}
