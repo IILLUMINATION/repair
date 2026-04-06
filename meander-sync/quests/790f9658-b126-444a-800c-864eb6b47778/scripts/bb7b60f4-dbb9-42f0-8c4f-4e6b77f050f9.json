@@ -1,0 +1,1 @@
+{"id":"bb7b60f4-dbb9-42f0-8c4f-4e6b77f050f9","name":"сон","blocks":[{"type":"event","id":"65900586-033b-4d78-a042-6e05e765663d","eventType":"onNodeEnter","children":[{"type":"assign_variable","id":"a0872194-3b0b-44f3-99bf-081f1273133a","variable":"сон","value":"1"}]}]}
