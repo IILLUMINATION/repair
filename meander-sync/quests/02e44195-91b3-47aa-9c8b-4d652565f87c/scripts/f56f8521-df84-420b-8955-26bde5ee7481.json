@@ -1,0 +1,1 @@
+{"id":"f56f8521-df84-420b-8955-26bde5ee7481","name":"Убрать звук ноды","blocks":[{"type":"event","id":"2c176676-6601-4686-805d-9b75f97f1d56","eventType":"onNodeEnter","children":[{"type":"set_volume","id":"3b46ae93-32aa-4317-a63d-8f3964b9254b","target":"tagAudio","volume":0.0}]}]}
