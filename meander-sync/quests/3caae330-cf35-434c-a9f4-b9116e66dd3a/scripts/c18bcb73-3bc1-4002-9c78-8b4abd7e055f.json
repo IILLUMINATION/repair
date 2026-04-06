@@ -1,0 +1,1 @@
+{"id":"c18bcb73-3bc1-4002-9c78-8b4abd7e055f","name":"видел парня с чётками","blocks":[{"type":"event","id":"919c2ff8-c25b-470c-8a00-b923a361371e","eventType":"onNodeEnter","children":[{"type":"assign_variable","id":"b652a021-3f42-48bc-910d-a6e6e453d6fb","variable":"парень с чётками","value":"1"}]}]}
