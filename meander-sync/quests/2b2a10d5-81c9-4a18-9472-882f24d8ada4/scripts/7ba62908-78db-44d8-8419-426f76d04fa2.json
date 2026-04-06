@@ -1,0 +1,1 @@
+{"id":"7ba62908-78db-44d8-8419-426f76d04fa2","name":"в больницу","blocks":[{"type":"event","id":"32884372-4fb9-4f6b-809e-b8bd49dab586","eventType":"onPress","children":[{"type":"go_to_node","id":"be24ec82-f4db-4d9c-a692-e7fa9c1d968a","node_id":"1a5a2cd4-289e-4f7b-941e-09fe4848aedd","node_name":"заперта"}],"collapsed":false}]}
