@@ -1,0 +1,1 @@
+{"id":"30596fe5-e1f2-4687-b5f7-bc14c61f5096","name":"ок","blocks":[{"type":"event","id":"2c529e0a-bcb6-4230-a726-a3180828fc4a","eventType":"onContentAppear","targetNodeId":"90d1043a-d925-40ee-b517-716463fe72b6","targetContentItemId":"6b8be975-8bcb-4f45-879c-70a9a83f9bc2","children":[{"type":"wait","id":"381f683c-32df-45cb-a2dd-b31dd3fe99f5","expression":"6000"}]}]}
