@@ -1,0 +1,1 @@
+{"id":"bf420cc8-9ecb-4561-832f-28019d5903be","name":"К_Тр_Атака +","blocks":[{"type":"event","id":"fc93b223-f26b-4b1e-8be4-229702ed8247","eventType":"onContentAppear","children":[{"type":"condition","id":"441eae7b-098e-4321-9817-95fa14bb1b7b","expression":"{OD}>=5","then_blocks":[],"else_blocks":[]}]}]}
