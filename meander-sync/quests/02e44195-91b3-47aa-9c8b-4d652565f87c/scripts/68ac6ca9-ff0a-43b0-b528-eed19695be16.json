@@ -1,0 +1,1 @@
+{"id":"68ac6ca9-ff0a-43b0-b528-eed19695be16","name":"Eq_w_tr_Saber1","blocks":[{"type":"event","id":"aa2ddea4-8ee9-4168-8a30-a3217c204e29","eventType":"onContentAppear","children":[{"type":"condition","id":"15bb1352-85e7-42e3-b5d2-8e488a43794c","expression":"{InHands}=='Сабля'","then_blocks":[],"else_blocks":[]}]}]}
