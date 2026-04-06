@@ -1,0 +1,1 @@
+{"id":"4dcbcd61-9ab9-41c9-af2b-31c26e3aa4ce","name":"считаем атаку","blocks":[{"type":"event","id":"91893d5e-01ec-4521-b52d-b3ef83ec8e70","eventType":"onNodeEnter","children":[{"type":"assign_variable","id":"2aa7e642-d89c-4ef2-98e1-08da43ef5ab2","variable":"суммарная атака","value":"{всё оружие в игре.дальнее.пистолет.атака}+{герой.параметры.атака}"}]}]}
