@@ -1,0 +1,1 @@
+{"id":"8b073257-8148-428b-8e24-8b2f1a554761","name":"убрать кнопку","blocks":[{"type":"event","id":"9a5d544b-aca2-4c77-81a4-bed96d814e4f","eventType":"onPress","children":[{"type":"assign_variable","id":"593fc5ba-e10d-495f-b03a-7a168d4b836e","variable":"кнопка","value":"1"}],"collapsed":false}]}
