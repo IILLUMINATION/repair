@@ -1,0 +1,1 @@
+{"id":"111bede6-fd4a-4451-88e7-84d957970a04","name":"Eq_w_tr_Topor1","blocks":[{"type":"event","id":"0e9724d0-f084-40e5-b0f4-331853f2c80b","eventType":"onContentAppear","children":[{"type":"condition","id":"3cc289df-0291-4107-ab2e-2b4a76f620a3","expression":"{InHands}=='Топор'","then_blocks":[],"else_blocks":[]}]}]}
